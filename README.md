@@ -25,13 +25,13 @@
 ---
 <h3 align="center">📊 GitHub Stats</h3>
 <p align="center">
-   <img src="https://github-readme-stats.vercel.app/api?username=rmhatre404&show_icons=true&hide_title=true&count_private=true&show_owner=true" alt="GitHub Stats" />
+   <img src="https://github-readme-stats.vercel.app/api?username=rmhatre404&show_icons=true&hide_title=true&count_private=true&show_owner=true&hide=prs" alt="GitHub Stats" />
    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rmhatre404&layout=compact&hide_title=true&langs_count=6" alt="Languages" />
 </p>
 
 <h3 align="center">🔥 GitHub Contributions</h3>
 <p align="center">
-   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=rmhatre404&theme=github-compact" alt="GitHub Activity Graph" />
+   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=rmhatre404&theme=github-compact&hide_title=true" alt="GitHub Activity Graph" />
 </p>
 
 ---
