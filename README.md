@@ -1,71 +1,80 @@
 <h1 align="center">Hi 👋, I'm Raj Chandrakant Mhatre</h1>
-<h3 align="center">A Passionate Software Developer and DevOps Enthusiast from India</h3>
-<p align="center">Driven by curiosity and a knack for problem-solving, I specialize in building scalable backend solutions, APIs, and exploring the DevOps ecosystem.</p>
+<h3 align="center">Full-Stack Developer | Python & DevOps Enthusiast | Backend & ML Engineer</h3>
+
+<p align="center">
+   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding" width="600" />
+</p>
 
 ---
 
-### 🦖 About Me
-- 🚀 Passionate about **developing efficient and scalable software solutions**.
-- 🌱 On a mission to transition into **DevOps Engineering** by 2025.
-- 💡 Keen on exploring **Kubernetes, Docker, Terraform**, and **GitLab CI/CD**.
-- 👍 Open to collaborations on **backend development, API creation**, and **DevOps projects**.
-- 📊 Skilled in Python, Flask, Django, FastAPI, and Machine Learning.
+- 🔭 I’m currently working with [ORNET Technologies Pvt. Ltd.](https://www.ornettech.com/)  
+- 🌱 I’m currently learning **AWS, CI/CD pipelines, Kubernetes, Terraform, and GitLab**  
+- 👯 I’m looking for exciting opportunities in **Python Backend Development, Machine Learning, and DevOps Engineering**  
+- 💬 Ask me about **Python, Databases, Backend Solutions & API Development**  
+- 📫 How to reach me **rmhatre404@gmail.com**
 
 ---
 
-### 🚀 Featured Projects
-- **[Transliteration API](https://github.com/rmhatre404/transliteration-api)**  
-  A FastAPI-based service for multilingual text transliteration.  
-  **Technologies**: FastAPI, Python, REST, Docker  
-
-- **[Stock Analysis Dashboard](https://github.com/rmhatre404/stock-analysis)**  
-  Power BI dashboards to track and analyze stock performance trends.  
-  **Technologies**: PowerBI, Python, Pandas  
-
-- **[Data Cleaning Toolkit](https://github.com/rmhatre404/data-cleaning)**  
-  A Python library for automated data cleaning and preprocessing.  
-  **Technologies**: Python, Pandas, Regex  
-
-Find more of my projects on my [GitHub Repositories](https://github.com/rmhatre404?tab=repositories).
+<h2 align="center">👋 About Me</h2>
+<p align="center">
+   🎯 Driven by curiosity and a passion for technology, I specialize in Python, Machine Learning, and Backend Development.  
+   🚀 Currently transitioning into DevOps with hands-on experience in Kubernetes, Docker, and Terraform.  
+   🌟 My goal? To solve real-world problems and build scalable, reliable solutions.
+</p>
 
 ---
 
-### 🛠️ Languages & Tools
-#### Programming Languages:
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+<h3 align="center">📊 GitHub Stats</h3>
+<p align="center">
+   <img src="https://github-readme-stats.vercel.app/api?username=rmhatre404&show_icons=true&locale=en" alt="GitHub Stats" />
+   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rmhatre404&layout=compact" alt="Languages" />
+</p>
 
-#### Frameworks & Libraries:
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-
-#### DevOps & Tools:
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-#### Databases:
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+<h3 align="center">🔥 GitHub Contributions</h3>
+<p align="center">
+   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=rmhatre404&theme=github-compact" alt="GitHub Activity Graph" />
+</p>
 
 ---
 
-### 📊 GitHub Stats
-![Raj's GitHub stats](https://github-readme-stats.vercel.app/api?username=rmhatre404&show_icons=true&theme=radical)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rmhatre404&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rmhatre404&layout=compact&theme=radical)
-
-![Raj's Contribution Graph](https://activity-graph.herokuapp.com/graph?username=rmhatre404&theme=github)
+<h3 align="center">🚀 My Top Projects</h3>
+<ul>
+   <li><a href="https://github.com/rmhatre404/transliteration-api">Transliteration API</a> - FastAPI-powered API for language transliteration.</li>
+   <li><a href="https://github.com/rmhatre404/stock-market-dashboard">Stock Market Dashboard</a> - PowerBI project analyzing stock trends.</li>
+</ul>
 
 ---
 
-### 🌐 Connect with Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raj-mhatre10/)  
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rmhatre404@gmail.com)  
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/rc_mhatre5191)
+<h3 align="center">💬 Connect with Me:</h3>
+<p align="center">
+   <a href="https://www.linkedin.com/in/raj-mhatre10/" target="blank">
+      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+   </a>
+   <a href="https://instagram.com/rc_mhatre5191" target="blank">
+      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+   </a>
+</p>
+
+---
+
+<h3 align="center">🛠️ Languages and Tools:</h3>
+<p align="center">
+   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/></a>
+   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/></a>
+   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/></a>
+   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a>
+   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
+   <a href="https://graphql.org" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/></a>
+   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a>
+   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a>
+   <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
+   <a href="https://redis.io" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/></a>
+   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/></a>
+</p>
+
+---
+
+<h3 align="center">✨ Visitor Count</h3>
+<p align="center">
+   <img src="https://profile-counter.glitch.me/rmhatre404/count.svg" alt="Visitor Count" />
+</p>
