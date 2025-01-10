@@ -8,7 +8,7 @@
 ---
 
 - 🔭 I’m currently working with [ORNET Technologies Pvt. Ltd.](https://www.ornettech.com/)  
-- 🌱 I’m currently learning **AWS, CI/CD pipelines, Kubernetes, Terraform, and GitLab**  
+- 🌱 I’m currently learning **AWS, CI/CD pipelines, Docker, Kubernetes, Terraform, and GitLab**  
 - 👯 I’m looking for exciting opportunities in **Python Backend Development, Machine Learning, and DevOps Engineering**  
 - 💬 Ask me about **Python, Databases, Backend Solutions & API Development**  
 - 📫 How to reach me **rmhatre404@gmail.com**
@@ -38,6 +38,7 @@
 
 <h3 align="center">🚀 My Top Projects</h3>
 <ul>
+   <li><a href="https://github.com/rmhatre404/OCR_voters-pdf_data_extraction">OCR Project</a> - Used Open-source Tessearct and as well as Boto3 and Google Vision OCR.</li>
    <li><a href="https://github.com/rmhatre404/transliteration-api">Transliteration API</a> - FastAPI-powered API for language transliteration.</li>
    <li><a href="https://github.com/rmhatre404/stock-market-dashboard">Stock Market Dashboard</a> - PowerBI project analyzing stock trends.</li>
 </ul>
