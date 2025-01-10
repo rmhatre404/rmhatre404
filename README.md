@@ -82,7 +82,7 @@
 <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"><img src="https://matplotlib.org/_static/images/logo2.svg" alt="matplotlib" width="40" height="40"/></a>
   <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"><img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="seaborn" width="40" height="40"/></a>
   <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="powerbi" width="40" height="40"/></a>
- <a href="https://www.tableau.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tableau/tableau-icon.svg" alt="tableau" width="40" height="40"/></a>
+ <a href="https://www.tableau.com/" target="_blank" rel="noreferrer"><img src="https://www.tableau.com/themes/custom/tableau_www/logo.v2.svg" alt="tableau" width="120" height="40"/></a>
    <a href="https://www.postman.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a>
   <a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="visualstudio" width="40" height="40"/></a>
 </div>
