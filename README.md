@@ -80,10 +80,12 @@
    <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/scikit-learn/scikit-learn/main/doc/logos/scikit-learn-logo.svg" alt="scikit-learn" width="40" height="40"/></a>
   <a href="https://numpy.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" alt="numpy" width="40" height="40"/></a>
  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/pandas.svg" alt="pandas" width="40" height="40"/></a>
+ <a href="https://scipy.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/6/69/Scipy_logo.svg" alt="scipy" width="40" height="40"/></a>
 <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"><img src="https://matplotlib.org/_static/images/logo2.svg" alt="matplotlib" width="40" height="40"/></a>
   <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"><img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="seaborn" width="40" height="40"/></a>
   <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="powerbi" width="40" height="40"/></a>
  <a href="https://www.tableau.com/" target="_blank" rel="noreferrer"><img src="https://www.tableau.com/themes/custom/tableau_www/logo.v2.svg" alt="tableau" width="120" height="40"/></a>
+ <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2013-2019_logo.svg" alt="excel" width="40" height="40"/></a>
    <a href="https://www.postman.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a>
   <a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="visualstudio" width="40" height="40"/></a>
 </div>
