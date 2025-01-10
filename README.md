@@ -99,12 +99,12 @@
   <a href="https://www.apachefriends.org/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/apachefriends/apachefriends-icon.svg" alt="xampp" width="40" height="40"/>
   </a>
-  <a href="https://en.wikipedia.org/wiki/Natural_language_processing" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/NLP-logo.svg" alt="nlp" width="40" height="40"/>
-  </a>
-  <a href="https://en.wikipedia.org/wiki/Computer_vision" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Artificial_Intelligence.svg" alt="cv" width="40" height="40"/>
-  </a>
+  <a href="https://www.nltk.org/" target="_blank" rel="noreferrer">
+  <img src="https://www.nltk.org/images/nltk.png" alt="nltk" width="40" height="40"/>
+</a>
+  <a href="https://opencv.org/" target="_blank" rel="noreferrer">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/OpenCV_Logo_with_text_svg_version.svg" alt="opencv" width="40" height="40"/>
+</a>
   <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/fastapi.svg" alt="fastapi" width="40" height="40"/>
   </a>
    <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/scikit-learn/scikit-learn/main/doc/logos/scikit-learn-logo.svg" alt="scikit-learn" width="40" height="40"/>
