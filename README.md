@@ -65,6 +65,7 @@
    <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
    <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/fastapi.svg" alt="fastapi" width="40" height="40"/></a>
    <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/></a>
+   <a href="https://www.django-rest-framework.org/" target="_blank" rel="noreferrer"><img src="https://www.django-rest-framework.org/img/logo.png" alt="django-rest-framework" width="120" height="40"/></a>
    <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"><img src="https://flask.palletsprojects.com/en/stable/_images/flask-horizontal.png" alt="flask" width="120" height="40"/></a>
    <a href="https://nodejs.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="nodejs" width="40" height="40"/></a>
   <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="expressjs" width="40" height="40"/></a>
@@ -87,10 +88,10 @@
   <a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="visualstudio" width="40" height="40"/></a>
 </div>
       <div align="center">
+         <a href="https://www.apachefriends.org/" target="_blank" rel="noreferrer"><img src="https://www.apachefriends.org/images/xampp-logo-ac950edf.svg" alt="xampp" width="120" height="40"/></a>
          <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a>
    <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a>
    <a href="https://redis.io" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/></a>
-   <a href="https://www.apachefriends.org/" target="_blank" rel="noreferrer"><img src="https://www.apachefriends.org/images/xampp-logo-ac950edf.svg" alt="xampp" width="120" height="40"/></a>
 </div>
 </p>
 
