@@ -22,16 +22,16 @@
    🌟 My goal? To solve real-world problems and build scalable, reliable solutions.
 </p>
 
+<p align="center">
+   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXE0dHNxOHRtcXVsY3RyZmw2czBrM3ZnbHZjOGR4cnh5b3ZiaGZpOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FNfcWhlz0GTkzcnZWh/giphy.webp" alt="Coding1" width="500" height="250"/>
+</p>
+
 
 ---
 <h3 align="center">📊 GitHub Stats</h3>
 <p align="center">
    <img src="https://github-readme-stats.vercel.app/api?username=rmhatre404&show_icons=true&hide_title=true&count_private=true&show_owner=true&hide=prs" alt="GitHub Stats" />
    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rmhatre404&layout=compact&hide_title=true&langs_count=6" alt="Languages" />
-</p>
-
-<p align="center">
-   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXE0dHNxOHRtcXVsY3RyZmw2czBrM3ZnbHZjOGR4cnh5b3ZiaGZpOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FNfcWhlz0GTkzcnZWh/giphy.webp" alt="Coding1" width="500" height="250"/>
 </p>
 
 <h3 align="center">🔥 GitHub Contributions</h3>
