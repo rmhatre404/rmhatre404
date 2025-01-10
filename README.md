@@ -98,7 +98,7 @@
    <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a>
    <a href="https://redis.io" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/></a>
    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="40" height="40"/></a>
-   <a href="https://www.apachefriends.org/" target="_blank" rel="noreferrer"><img src="https://www.apachefriends.org/images/xampp-logo-ac950edf.svg" alt="xampp" width="120" height="40"/></a>
+   <a href="https://www.apachefriends.org/" target="_blank"><img align="center" src="https://w7.pngwing.com/pngs/958/438/png-transparent-xampp-hd-logo.png" alt="XAMPP" height="40" width="120" /></a>
 </div>
 </p>
 
