@@ -21,10 +21,10 @@
    🚀 Currently transitioning into DevOps with hands-on experience in Kubernetes, Docker, and Terraform.  
    🌟 My goal? To solve real-world problems and build scalable, reliable solutions.
 </p>
----
+
 
 <p align="center">
-   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXE0dHNxOHRtcXVsY3RyZmw2czBrM3ZnbHZjOGR4cnh5b3ZiaGZpOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FNfcWhlz0GTkzcnZWh/giphy.webp" alt="Coding" width="350" />
+   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXE0dHNxOHRtcXVsY3RyZmw2czBrM3ZnbHZjOGR4cnh5b3ZiaGZpOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FNfcWhlz0GTkzcnZWh/giphy.webp" alt="Coding1" width="350" height="40"/>
 </p>
 
 
