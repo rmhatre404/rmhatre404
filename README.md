@@ -57,7 +57,7 @@
    <a href="https://wa.me/+919768877272" target="_blank">
   <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp" height="30" width="40" />
 </a>
-   <a href="https://t.me/rajmhatre" target="_blank">
+   <a href="https://t.me/rajmhatre1111" target="_blank">
   <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="Telegram" height="30" width="40" />
 </a>
 </p>
