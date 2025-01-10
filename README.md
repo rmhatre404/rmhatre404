@@ -38,7 +38,7 @@
 
 <h3 align="center">🚀 My Top Projects</h3>
 <ul>
-   <li><a href="https://github.com/rmhatre404/OCR_voters-pdf_data_extraction">OCR Project</a> - Used Open-source Tessearct and as well as Boto3 and Google Vision OCR.</li>
+   <li><a href="https://github.com/rmhatre404/OCR_voters-pdf_data_extraction">OCR Project</a> - Used Open-source Tesseract and as well as Boto3 and Google Vision OCR.</li>
    <li><a href="https://github.com/rmhatre404/transliteration-api">Transliteration API</a> - FastAPI-powered API for language transliteration.</li>
    <li><a href="https://github.com/rmhatre404/stock-market-dashboard">Stock Market Dashboard</a> - PowerBI project analyzing stock trends.</li>
 </ul>
