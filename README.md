@@ -23,7 +23,7 @@
 </p>
 
 <p align="center">
-   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXE0dHNxOHRtcXVsY3RyZmw2czBrM3ZnbHZjOGR4cnh5b3ZiaGZpOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FNfcWhlz0GTkzcnZWh/giphy.webp" alt="Coding1" width="1000" height="120"/>
+   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXE0dHNxOHRtcXVsY3RyZmw2czBrM3ZnbHZjOGR4cnh5b3ZiaGZpOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FNfcWhlz0GTkzcnZWh/giphy.webp" alt="Coding1" width="1000" height="95"/>
 </p>
 
 
