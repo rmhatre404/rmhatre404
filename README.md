@@ -31,7 +31,7 @@
 
 <h3 align="center">🔥 GitHub Contributions</h3>
 <div align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=rmhatre404&theme=github-compact&hide_title=true" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rmhatre404&theme=github-compact&hide_title=true" alt="GitHub Activity Graph" />
 </div>
 
 
